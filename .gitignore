@@ -1,0 +1,4 @@
+*.pdf
+*.class
+.classpath
+.project
